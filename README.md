@@ -7,6 +7,7 @@
 
 ## Usage
 * Make a meme very easily with a photo in your library or your camera.
+* Once your done you can save the image to your photo library or start sharing it.
 * View memes you have already made in a table view or a collection view.
 
 ## Screenshots
